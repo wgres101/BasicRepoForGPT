@@ -1,0 +1,8 @@
+<world>
+  <sector id="A1" adjacent="A2" portal="other_world.strmml">
+    <entity type="text" position="0,0,0">Hello from sector A1</entity>
+  </sector>
+  <sector id="A2" adjacent="A1" portal="strmml://cluster.example.com/sample.strmml">
+    <entity type="text" position="1,0,0">Welcome to sector A2</entity>
+  </sector>
+</world>
