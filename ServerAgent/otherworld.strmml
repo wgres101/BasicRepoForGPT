@@ -1,0 +1,5 @@
+<world>
+  <sector id="B1">
+    <entity type="text" position="0,0,0">Welcome to another world</entity>
+  </sector>
+</world>
